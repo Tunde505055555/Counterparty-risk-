@@ -1,0 +1,5 @@
+# Contract tooling and tests. The contract itself has no dependencies beyond
+# the GenLayer runtime pinned in its header.
+genlayer-py>=0.5.0
+gltest>=0.4.0
+pytest>=8.0
